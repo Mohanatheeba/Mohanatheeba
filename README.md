@@ -17,8 +17,6 @@ Building intelligent AI systems, scalable backend applications, and contributing
 
 🎓 MSc in Artificial Intelligence & Data Science
 
-💼 Junior Software Developer at **AeroChat**
-
 🤖 Passionate about AI, Machine Learning, LLMs, Retrieval-Augmented Generation (RAG), Backend Development, and Open Source.
 
 🌱 Currently exploring
@@ -214,7 +212,7 @@ Machine Learning model for fraud detection using
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
-<a href="mohanamanikandan17@gmail.com">
+<a href="mailto:mohanamanikandan17@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 
