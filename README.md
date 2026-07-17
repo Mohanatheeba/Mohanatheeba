@@ -210,11 +210,11 @@ Machine Learning model for fraud detection using
 
 <p align="left">
 
-<a href="https://linkedin.com/in/YOUR-LINKEDIN">
+<a href="https://www.linkedin.com/in/m-mohana-theeba/">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:mohanamanikandan17@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 
