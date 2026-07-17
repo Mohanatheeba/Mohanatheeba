@@ -234,7 +234,6 @@ Machine Learning model for fraud detection using
 
 If you like my projects, consider giving them a ⭐.
 
-</p>## Hi there 👋
 
 <!--
 **Mohanatheeba/Mohanatheeba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
