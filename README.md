@@ -214,7 +214,7 @@ Machine Learning model for fraud detection using
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
-<a href="mailto:mohanamanikandan17@gmail.com">
+<a href="mohanamanikandan17@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 
